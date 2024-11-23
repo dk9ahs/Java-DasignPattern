@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="Main"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="Math"/>
+    <fullyQualifiedTypeName name="Adaper"/>
+    <fullyQualifiedTypeName name="AdaperImpl"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="Ainterface"/>
+    <fullyQualifiedTypeName name="AinterfaceImpl"/>
+    <fullyQualifiedTypeName name="AObj"/>
+    <fullyQualifiedTypeName name="Weapon"/>
+    <fullyQualifiedTypeName name="GameCharacter"/>
+    <fullyQualifiedTypeName name="Knife"/>
+    <fullyQualifiedTypeName name="Sword"/>
+    <fullyQualifiedTypeName name="Ax"/>
+</qualifiedTypeNameHistroy>
