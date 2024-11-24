@@ -10,6 +10,8 @@ public class Main {
 //		AObj aObj = new AObj();
 //		aObj.funAA();
 		
+		// 스트레티지
+		
 		GameCharacter character = new GameCharacter();
 		
 		character.attack();
