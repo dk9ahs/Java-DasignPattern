@@ -1,13 +1,14 @@
 package com.dk9ahs.dp;
 
 public abstract class AbsCameConnectHelper {
-	
+	//하위 클래스가 반드시 구현해야 하는 메서드
 	protected abstract String doSecurity(String string);
 	protected abstract boolean authentication(String id, String password);
 	protected abstract int authorization(String userName);
 	protected abstract String connection(String info);	
 	
-	//템플릿 메소드
+	//Template Method(템플릿 메소드)
+	//알고리즘의 뼈대를 상위 클래스에서 정의
 	public String requestConnection(String encodedInfo) {
 		
 		//보안 작업 -> 암호화 된 문자열을 복호화

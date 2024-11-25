@@ -1,4 +1,4 @@
-
+//2. 구체적인 전략(ConcreteStrategy)
 public class Ax implements Weapon {
 	
 	@Override

@@ -1,5 +1,5 @@
 package com.dk9ahs.dp;
-
+//세부 동작은 하위 클래스에서 재정의하거나 확장
 public class DefaultGameConnectHelper extends AbsCameConnectHelper {
 
 	@Override

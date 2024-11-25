@@ -21,4 +21,14 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="AbsCameConnectHelper"/>
     <fullyQualifiedTypeName name="DefaultGameConnectHelper"/>
+    <fullyQualifiedTypeName name="javax.xml.crypto.Data"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="concrete.HpPotion"/>
+    <fullyQualifiedTypeName name="concrete.HpCreater"/>
+    <fullyQualifiedTypeName name="framework.ItemCreator"/>
+    <fullyQualifiedTypeName name="framework.Item"/>
+    <fullyQualifiedTypeName name="concrete.MpCreater"/>
+    <fullyQualifiedTypeName name="SystemSpeaker"/>
 </qualifiedTypeNameHistroy>

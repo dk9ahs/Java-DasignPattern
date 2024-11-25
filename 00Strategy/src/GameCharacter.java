@@ -1,10 +1,10 @@
-
+//3. Context 클래스(Character)
 public class GameCharacter {
 	
 	//추상적인 접근점
 	private Weapon weapon;
 	
-	//교환 가능
+	//변경 가능
 	public void setWeapon(Weapon weapon) {
 		this.weapon = weapon;
 	}

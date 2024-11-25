@@ -1,4 +1,7 @@
-
+//1. Adapter 인터페이스를 구현하여 클라이언트가 Math의 연산을 사용
+//할 수 있도록 연결.
+//2. 클라이언트는 Adapter메서드만 호출하고 내부엔 어떤 Math
+//메소드가 호출되는지 신경 쓸 필요가 없음.
 public class AdapterImpl implements Adapter {
 
 //	Math math;
